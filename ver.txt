@@ -1,0 +1,6 @@
+{
+    "SoftwareVersion": "2.1",
+    "SoftwareUrl":"https://github.com/devultra10/Psd/releases/download/PsdService/PSD.zip",
+    "Status":"True",
+    "Changelog":"[+] Updated!"
+}
